@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @firenanse
+- 👀 I’m interested in js/ts, let's get into the code world.
